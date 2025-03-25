@@ -40,6 +40,6 @@ Model: LLAMA 3.2 (2.0GB)
 | 1
 | 795
 | 0
-| 
+| Memory usage: 2.682Gi/7.996Gi
 
 |===
