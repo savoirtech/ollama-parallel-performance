@@ -15,15 +15,15 @@ Model: LLAMA 3.2 (2.0GB)
 | 128
 | 128
 | 
-| 
+|
 | Did not run on GPU
 
 | 512
 | 2048
 | 128
 | 16
-| 
-| 
+| 370
+| 0
 | Memory Usage: 7.014Gi/7.996Gi
 
 | 512
