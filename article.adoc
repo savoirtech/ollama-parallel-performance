@@ -120,3 +120,59 @@ Model: LLAMA 3.2 (2.0GB)
 | Memory Usage: 2.686Gi/7.996Gi
 
 |===
+
+
+
+[cols("^1","^1","^1","^1","^1","^1","^1")]
+|===
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds)| Errors | Notes
+
+| 512
+| 4096
+| 128
+| 128
+| 
+|
+| Did not run on GPU
+
+| 512
+| 4096
+| 128
+| 16
+| 
+| 
+| 
+
+| 512
+| 4096
+| 128
+| 8
+| 
+| 
+| 
+
+| 512
+| 4096
+| 128
+| 4
+| 
+| 
+| 
+
+| 512
+| 4096
+| 128
+| 2
+| 
+| 
+| 
+
+| 512
+| 4096
+| 128
+| 1
+| 
+| 
+| Memory Usage: 2.684Gi/7.996Gi
+
+|===
