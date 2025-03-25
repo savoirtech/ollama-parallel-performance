@@ -2,6 +2,9 @@
 
 ## System Information
 
+Ubuntu 22.04 LTS
+Intel Xeon E-2378
+DDR4 ECC 3200 MT.
 NVidia RTX 1000 ADA.
 8 GB vram.
 
