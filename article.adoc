@@ -8,7 +8,7 @@ NVidia RTX 1000 ADA.
 Model: LLAMA 3.2 
 [cols("^1","^1","^1","^1","^1","^1")]
 |===
-| Queue Size | Context Size | Requests | Number of Parallel Model Requests | Duration | Errors
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests | Duration (Seconds)| Errors
 
 | 512
 | 2048
@@ -16,5 +16,12 @@ Model: LLAMA 3.2
 | 128
 | 
 | 
+
+| 512
+| 2048
+| 16
+| 128
+| 35.5
+| 0
 
 |===
