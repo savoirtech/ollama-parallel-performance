@@ -2,7 +2,7 @@
 
 
 
-
+Model: LLAMA 3.2 
 [cols("^1","^1","^1","^1","^1","^1")]
 |===
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests | Duration | Errors
