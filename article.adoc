@@ -128,7 +128,7 @@ Model: LLAMA 3.2 (2.0GB)
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds)| Errors | Notes
 
 | 512
-| 4096
+| 131072
 | 128
 | 128
 | 
@@ -136,7 +136,7 @@ Model: LLAMA 3.2 (2.0GB)
 | Did not run on GPU
 
 | 512
-| 4096
+| 131072
 | 128
 | 16
 | 
@@ -144,7 +144,7 @@ Model: LLAMA 3.2 (2.0GB)
 | 
 
 | 512
-| 4096
+| 131072
 | 128
 | 8
 | 
@@ -152,7 +152,7 @@ Model: LLAMA 3.2 (2.0GB)
 | 
 
 | 512
-| 4096
+| 131072
 | 128
 | 4
 | 
@@ -160,7 +160,7 @@ Model: LLAMA 3.2 (2.0GB)
 | 
 
 | 512
-| 4096
+| 131072
 | 128
 | 2
 | 
@@ -168,7 +168,7 @@ Model: LLAMA 3.2 (2.0GB)
 | 
 
 | 512
-| 4096
+| 131072
 | 128
 | 1
 | 
