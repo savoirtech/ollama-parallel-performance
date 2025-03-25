@@ -6,9 +6,9 @@ NVidia RTX 1000 ADA.
 8 GB vram.
 
 Model: LLAMA 3.2 
-[cols("^1","^1","^1","^1","^1","^1")]
+[cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
-| Queue Size | Context Size | Requests | Number of Parallel Model Requests | Duration (Seconds)| Errors
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests | Duration (Seconds)| Errors | Notes
 
 | 512
 | 2048
@@ -16,12 +16,14 @@ Model: LLAMA 3.2
 | 128
 | 
 | 
+| Did not run on GPU
 
 | 512
 | 2048
 | 16
 | 128
-| 35.5
-| 0
+| 
+| 
+| 
 
 |===
