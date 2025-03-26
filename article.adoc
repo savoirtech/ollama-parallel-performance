@@ -291,7 +291,24 @@ DeepSeek-R1:1.5b (1.1 GB)
 
 |===
 
-mistral (4.1 GB)
+mistral 7.2b (4.1 GB)
+```
+Model
+    architecture        llama    
+    parameters          7.2B     
+    context length      32768    
+    embedding length    4096     
+    quantization        Q4_0     
+
+  Parameters
+    stop    "[INST]"     
+    stop    "[/INST]"    
+
+  License
+    Apache License               
+    Version 2.0, January 2004 
+```
+
 
 [cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
