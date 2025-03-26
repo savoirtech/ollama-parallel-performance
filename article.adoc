@@ -317,7 +317,7 @@ Model
 | 8
 |
 |
-| Memory Usage: 
+| Memory Usage: 2.113Gi/7.996Gi
 
 | 512
 | 2048
