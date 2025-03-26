@@ -326,9 +326,9 @@ Model
 | 2048
 | 128
 | 16
-| 
-|
-| Memory Usage: 7.338Gi/7.996Gi
+| 424
+| 0
+| Memory Usage: 7.342Gi/7.996Gi
 
 | 512
 | 2048
