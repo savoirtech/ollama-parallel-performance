@@ -325,7 +325,7 @@ Model
 | 4
 |
 |
-| Memory Usage: 
+| Memory Usage: 1.766Gi/7.996Gi
  
 | 512
 | 2048
