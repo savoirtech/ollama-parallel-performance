@@ -177,8 +177,9 @@ Model: LLAMA 3.2 (2.0GB)
 
 |===
 
+ 
+DeepSeek-R1:7b (4.7 GB)
 
-DeepSeek-R1:7b
 [cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds)| Errors | Notes
