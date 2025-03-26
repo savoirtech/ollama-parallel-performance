@@ -333,7 +333,7 @@ Model
 | 2
 |
 |
-| Memory Usage: 
+| Memory Usage: 1.656Gi/7.996Gi
 
 | 512
 | 2048
