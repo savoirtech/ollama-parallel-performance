@@ -205,7 +205,7 @@ DeepSeek-R1:7b
 | 8
 |
 |
-|
+| Memeory Usage: 6.225Gi/7.996Gi
 
 | 512
 | 2048
