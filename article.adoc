@@ -343,6 +343,6 @@ mistral (4.1 GB)
 | 1
 |
 |
-|
+| Memory Usage: 4.514Gi/7.996Gi
 
 |===
