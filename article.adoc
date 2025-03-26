@@ -255,7 +255,7 @@ DeepSeek-R1:1.5b (1.1 GB)
 | 16
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -263,7 +263,7 @@ DeepSeek-R1:1.5b (1.1 GB)
 | 8
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -271,15 +271,15 @@ DeepSeek-R1:1.5b (1.1 GB)
 | 4
 |
 |
-|
-
+| Memory Usage: 
+ 
 | 512
 | 2048
 | 128
 | 2
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -287,7 +287,7 @@ DeepSeek-R1:1.5b (1.1 GB)
 | 1
 |
 |
-|
+| Memory Usage: 
 
 |===
 
@@ -328,7 +328,7 @@ Model
 | 16
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -336,7 +336,7 @@ Model
 | 8
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -344,7 +344,7 @@ Model
 | 4
 |
 |
-|
+| Memory Usage: 
 
 | 512
 | 2048
@@ -352,7 +352,7 @@ Model
 | 2
 |
 |
-|
+| Memory Usage: 4.893Gi/7.996Gi
 
 | 512
 | 2048
