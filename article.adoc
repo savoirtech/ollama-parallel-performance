@@ -12,7 +12,7 @@ NVidia RTX 1000 ADA.
 
 8 GB vram.
 
-Model: LLAMA 3.2 (2.0GB)
+### Model: LLAMA 3.2 (2.0GB)
 [cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds)| Errors | Notes
@@ -178,7 +178,7 @@ Model: LLAMA 3.2 (2.0GB)
 |===
 
  
-DeepSeek-R1:7b (4.7 GB)
+### DeepSeek-R1:7b (4.7 GB)
 
 [cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
@@ -235,7 +235,7 @@ DeepSeek-R1:7b (4.7 GB)
 |===
 
 
-DeepSeek-R1:1.5b (1.1 GB)
+### DeepSeek-R1:1.5b (1.1 GB)
 
 [cols("^1","^1","^1","^1","^1","^1","^1")]
 |===
@@ -291,7 +291,7 @@ DeepSeek-R1:1.5b (1.1 GB)
 
 |===
 
-mistral 7.2b (4.1 GB)
+### mistral 7.2b (4.1 GB)
 ```
 Model
     architecture        llama    
