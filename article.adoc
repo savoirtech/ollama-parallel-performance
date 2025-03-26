@@ -290,3 +290,59 @@ DeepSeek-R1:1.5b (1.1 GB)
 |
 
 |===
+
+mistral (4.1 GB)
+
+[cols("^1","^1","^1","^1","^1","^1","^1")]
+|===
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds)| Errors | Notes
+
+| 512
+| 131072
+| 128
+| 128
+|
+|
+|
+
+| 512
+| 2048
+| 128
+| 16
+|
+|
+|
+
+| 512
+| 2048
+| 128
+| 8
+|
+|
+|
+
+| 512
+| 2048
+| 128
+| 4
+|
+|
+|
+
+| 512
+| 2048
+| 128
+| 2
+|
+|
+|
+
+| 512
+| 2048
+| 128
+| 1
+|
+|
+|
+
+|===
