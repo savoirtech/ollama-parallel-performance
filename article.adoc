@@ -341,7 +341,7 @@ Model
 | 1
 |
 |
-| Memory Usage: 
+| Memory Usage: 1.602Gi/7.996Gi
 
 |===
 
