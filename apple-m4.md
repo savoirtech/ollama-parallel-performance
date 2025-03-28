@@ -23,7 +23,7 @@ Model
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
 |----|----|----|----|----|----|----|
 | 512 | 2048 | 128 | 128 |  |  |  |
-| 512 | 2048 | 128 | 64 |  | 0 | Memory Usage: 9.895Gi/16.000Gi |
+| 512 | 2048 | 128 | 64 | 3780 | 0 | Memory Usage: 9.895Gi/16.000Gi |
 | 512 | 2048 | 128 | 32 | 864 | 0 | Memory Usage: 9.386Gi/16.000Gi |
 | 512 | 2048 | 128 | 16 | 413 | 0 | Memory Usage: 7.274Gi/16.000Gi |
 | 512 | 2048 | 128 | 8 | 899 | 0 | Memory Usage: 4.743Gi/16.000Gi |
