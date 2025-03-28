@@ -27,5 +27,5 @@ Model
 | 512 | 2048 | 128 | 16 | 413 | 0 | Memory Usage: 7.274Gi/16.000Gi |
 | 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:  |
 | 512 | 2048 | 128 | 4 |  | 0 | Memory usage:  |
-| 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 2 |  | 0 | Memory usage: 2.876Gi/16.000Gi |
 | 512 | 2048 | 128 | 1 | 1116 | 0 | Memory usage: 2.657Gi/16.000Gi |
