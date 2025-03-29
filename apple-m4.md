@@ -92,3 +92,36 @@ Model
 | 512 | 2048 | 128 | 4 | 160 | 0 | Memory usage: 1.820Gi/16.000Gi |
 | 512 | 2048 | 128 | 2 | 167 | 0 | Memory usage: 1.711Gi/16.000Gi |
 | 512 | 2048 | 128 | 1 | 220 | 0 | Memory usage: 1.656Gi/16.000Gi|
+
+
+
+## Model: Deepseek-R1 7b ()
+```
+Model
+    architecture        qwen2     
+    parameters          7.6B      
+    context length      131072    
+    embedding length    3584      
+    quantization        Q4_K_M    
+
+  Parameters
+    stop    "<｜begin▁of▁sentence｜>"    
+    stop    "<｜end▁of▁sentence｜>"      
+    stop    "<｜User｜>"                 
+    stop    "<｜Assistant｜>"            
+
+  License
+    MIT License                    
+    Copyright (c) 2023 DeepSeek   
+```
+
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
+|----|----|----|----|----|----|----|
+| 512 | 2048 | 128 | 128 |  |  | Could not run 128 runners. |
+| 512 | 2048 | 128 | 64 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 32 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 16 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:   |
+| 512 | 2048 | 128 | 4 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 1 |  | 0 | Memory usage: |
