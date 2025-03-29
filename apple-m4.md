@@ -37,7 +37,7 @@ Model
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
 |----|----|----|----|----|----|----|
 | 512 | 2048 | 128 | 128 |  |  |  |
-| 512 | 2048 | 128 | 64 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 64 | n/a | 1 | failed to allocate Metal buffer of size 8891928576 |
 | 512 | 2048 | 128 | 32 |  | 0 | Memory Usage: |
 | 512 | 2048 | 128 | 16 |  | 0 | Memory Usage:  |
 | 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:  |
