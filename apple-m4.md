@@ -84,7 +84,7 @@ Model
 
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
 |----|----|----|----|----|----|----|
-| 512 | 2048 | 128 | 128 |  |  |  |
+| 512 | 2048 | 128 | 128 |  |  | Could not run 128 runners. |
 | 512 | 2048 | 128 | 64 | 65 | 0 | Memory Usage: 8.070Gi/16.000Gi |
 | 512 | 2048 | 128 | 32 | 61 | 0 | Memory Usage: 4.695Gi/16.000Gi |
 | 512 | 2048 | 128 | 16 | 74 | 0 | Memory Usage: 3.008Gi/16.000Gi |
