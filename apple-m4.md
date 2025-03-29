@@ -95,7 +95,7 @@ Model
 
 
 
-## Model: Deepseek-R1 7b ()
+## Model: Deepseek-R1 7b (4.7)
 ```
 Model
     architecture        qwen2     
