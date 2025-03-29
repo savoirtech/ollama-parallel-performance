@@ -63,6 +63,24 @@ Model
 
 
 ## Model: Deepseek-R1 1.5b (1.1GB)
+```
+Model
+    architecture        qwen2     
+    parameters          1.8B      
+    context length      131072    
+    embedding length    1536      
+    quantization        Q4_K_M    
+
+  Parameters
+    stop    "<｜begin▁of▁sentence｜>"    
+    stop    "<｜end▁of▁sentence｜>"      
+    stop    "<｜User｜>"                 
+    stop    "<｜Assistant｜>"            
+
+  License
+    MIT License                    
+    Copyright (c) 2023 DeepSeek
+```
 
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
 |----|----|----|----|----|----|----|
