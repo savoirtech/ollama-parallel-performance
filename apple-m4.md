@@ -30,3 +30,17 @@ Model
 | 512 | 2048 | 128 | 4 | 940 | 0 | Memory usage: 3.477Gi/16.000Gi |
 | 512 | 2048 | 128 | 2 | 948 | 0 | Memory usage: 2.876Gi/16.000Gi |
 | 512 | 2048 | 128 | 1 | 1116 | 0 | Memory usage: 2.657Gi/16.000Gi |
+
+
+## Model: Mistral (4.1GB)
+
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
+|----|----|----|----|----|----|----|
+| 512 | 2048 | 128 | 128 |  |  |  |
+| 512 | 2048 | 128 | 64 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 32 |  | 0 | Memory Usage: |
+| 512 | 2048 | 128 | 16 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 4 |  | 0 | Memory usage: |
+| 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 1 |  | 0 | Memory usage: 4.453Gi/16.000Gi|
