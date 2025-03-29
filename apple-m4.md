@@ -40,7 +40,7 @@ Model
 | 512 | 2048 | 128 | 64 | n/a | 1 | failed to allocate Metal buffer of size 8891928576 |
 | 512 | 2048 | 128 | 32 | 656 | 0 | Memory Usage: 9.894Gi/16.000Gi |
 | 512 | 2048 | 128 | 16 | 250 | 0 | Memory Usage: 10.127Gi/16.000Gi |
-| 512 | 2048 | 128 | 8 |  | 0 | Memory Usage: 7.096Gi/16.000Gi |
+| 512 | 2048 | 128 | 8 | 706 | 0 | Memory Usage: 7.096Gi/16.000Gi |
 | 512 | 2048 | 128 | 4 |  | 0 | Memory usage: |
 | 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
 | 512 | 2048 | 128 | 1 | 883 | 0 | Memory usage: 4.453Gi/16.000Gi|
