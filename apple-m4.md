@@ -33,6 +33,22 @@ Model
 
 
 ## Model: Mistral (4.1GB)
+```
+Model
+    architecture        llama    
+    parameters          7.2B     
+    context length      32768    
+    embedding length    4096     
+    quantization        Q4_0     
+
+  Parameters
+    stop    "[INST]"     
+    stop    "[/INST]"    
+
+  License
+    Apache License               
+    Version 2.0, January 2004  
+```
 
 | Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
 |----|----|----|----|----|----|----|
