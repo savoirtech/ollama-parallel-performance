@@ -95,7 +95,7 @@ Model
 
 
 
-## Model: Deepseek-R1 7b (4.7)
+## Model: Deepseek-R1 7b (4.7 GB)
 ```
 Model
     architecture        qwen2     
@@ -125,3 +125,39 @@ Model
 | 512 | 2048 | 128 | 4 |  | 0 | Memory usage: 5.547Gi/16.000Gi |
 | 512 | 2048 | 128 | 2 | 5212 | 0 | Memory usage: 5.145Gi/16.000Gi |
 | 512 | 2048 | 128 | 1 | 5903 | 0 | Memory usage: 5.036Gi/16.000Gi|
+
+
+## Model: GandalfBaum/llama3.1-claude3.7 (4.9 GB)
+```
+Model
+    architecture        llama     
+    parameters          8.0B      
+    context length      131072    
+    embedding length    4096      
+    quantization        Q4_K_M    
+
+  Parameters
+    stop    "<|start_header_id|>"    
+    stop    "<|end_header_id|>"      
+    stop    "<|eot_id|>"             
+
+  System
+    The assistant is Claude, created by Anthropic.    
+    The current date is {{currentDateTime}}.          
+
+  License
+    LLAMA 3.1 COMMUNITY LICENSE AGREEMENT            
+    Llama 3.1 Version Release Date: July 23, 2024
+```
+| Queue Size | Context Size | Requests | Number of Parallel Model Requests Allowed | Duration (Seconds) | Errors | Notes |
+|----|----|----|----|----|----|----|
+| 512 | 2048 | 128 | 128 |  |  | Could not run 128 runners. |
+| 512 | 2048 | 128 | 64 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 32 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 16 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:   |
+| 512 | 2048 | 128 | 4 |  | 0 | Memory usage: |
+| 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 1 |  | 0 | Memory usage: |
+
+
