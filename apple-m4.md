@@ -120,7 +120,7 @@ Model
 | 512 | 2048 | 128 | 128 |  |  | Could not run 128 runners. |
 | 512 | 2048 | 128 | 64 |  | 0 | Memory Usage:  |
 | 512 | 2048 | 128 | 32 |  | 0 | Memory Usage:  |
-| 512 | 2048 | 128 | 16 |  | 0 | Memory Usage:  |
+| 512 | 2048 | 128 | 16 | 2791 | 0 | Memory Usage:  |
 | 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:   |
 | 512 | 2048 | 128 | 4 |  | 0 | Memory usage:  |
 | 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
