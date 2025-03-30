@@ -123,5 +123,5 @@ Model
 | 512 | 2048 | 128 | 16 | 2791 | 0 | Memory Usage:  |
 | 512 | 2048 | 128 | 8 |  | 0 | Memory Usage:   |
 | 512 | 2048 | 128 | 4 |  | 0 | Memory usage:  |
-| 512 | 2048 | 128 | 2 |  | 0 | Memory usage:  |
+| 512 | 2048 | 128 | 2 |  | 0 | Memory usage: 5.145Gi/16.000Gi |
 | 512 | 2048 | 128 | 1 | 5903 | 0 | Memory usage: 5.036Gi/16.000Gi|
