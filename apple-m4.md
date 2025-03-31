@@ -1,5 +1,10 @@
 Apple M4
 
+## Script
+
+https://github.com/jgoodyear/ollama-benchmark.git
+
+
 ## Model: LLAMA 3.2 (2.0GB)
 
 ```
